@@ -29,7 +29,7 @@ Publications
 
 **The Road to Trust: Building Enclaves within Confidential VMs** _(NDSS'25)_ 
 
-Wenhao Wang, **Linke Song** (first student author), Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan*, XiaoFeng Wang, Dan Meng, Rui Hou 
+Wenhao Wang, **Linke Song** (first student author), Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou 
 
 **The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems** _(Preprint)_
 
