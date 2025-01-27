@@ -27,7 +27,7 @@ _2022.09 - 2024.07_ Master of Cyberspace Security, **Institute of Information En
 Publications
 ------
 
-** The Road to Trust: Building Enclaves within Confidential VMs** _(NDSS'25)_ 
+**The Road to Trust: Building Enclaves within Confidential VMs** _(NDSS'25)_ 
 
 Wenhao Wang, \textbf{Linke Song} (first student author), Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan*, XiaoFeng Wang, Dan Meng, Rui Hou 
 
