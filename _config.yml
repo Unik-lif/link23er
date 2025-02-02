@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Linke Song / Eidos"
+title                    : "Linke Song / Homepage"
 title_separator          : "-"
 name                     : &name "Linke Song"
 description              : &description "personal description"
@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Yet another system guy"
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
-  uri              : # URL
+  employer         : "IIE, UCAS"
+  uri              : "https://unik-lif.github.io/" # URL
   email            : "songlinke@iie.ac.cn" 
 
   # Academic websites
